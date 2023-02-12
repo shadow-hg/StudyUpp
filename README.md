@@ -1,1 +1,3 @@
-# StudyUpp
+# StudyUPP
+
+Developed with Unreal Engine 5
